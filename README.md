@@ -1,4 +1,4 @@
- <h1>Hi there I'am Hatice 👋</h1>
+ <h1>Hi there I'am Osman 👋</h1>
  <h1>💫About Me :</h1>
  - 🔭 I’m currently working on my Skills.
  <br>
