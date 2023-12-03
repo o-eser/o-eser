@@ -33,3 +33,10 @@
 </br>
  <h1>🌐Socials</h1>
 <a href="www.linkedin.com/in/osman-eser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/osman-eser/" height="35" width="47" /></a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=o-eser&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=o-eser&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=o-eser&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=o-eser&label=Profile%20views&color=0e75b6&style=flat" alt="4ertan" /> </p>
